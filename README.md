@@ -20,3 +20,7 @@ data                数据集
 train_data          训练集  
 test_data           测试集  
 model               模型权重保存结果  
+
+# 缺失文件说明
+缺失的是 model 目录下的 "mod.data-00000-of-00001" 文件，下载地址如下：  
+https://quqi.gblhgk.com/s/712956/Mg2MyCxNbLhAyYxt  
